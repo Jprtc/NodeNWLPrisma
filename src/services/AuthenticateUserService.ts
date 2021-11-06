@@ -1,4 +1,3 @@
-// import { PrismaClient } from '@prisma/client';
 import axios from 'axios';
 import prismaClient from '../prisma'
 import {sign} from 'jsonwebtoken'
